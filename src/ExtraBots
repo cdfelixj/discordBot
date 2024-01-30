@@ -1,0 +1,15 @@
+Hello
+
+So for this assignment I have made 2 bots:
+CoinBot
+Currency
+
+CoinBot:
+The coin bot basically activates similarly to the ping bot
+but activates when "flip coin" is said, in which it will just give heads or tails after saying it.
+
+CurrencyBot:
+This bot allows you to calculate the exchange to 4 different currencies which are USD, EUR, JPY or RMB.
+it activates by using /exchange then choosing 1 to 4 amount of options and putting in the amount in HKD you want to see in the respective currencies.
+
+You can go to the exampleofBot.png to see an example of it.
