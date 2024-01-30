@@ -12,6 +12,7 @@ The bot then had the ability to identify user test scores and placements based o
 
 Overall this project demonstrated skills in bot development using the Discord API as well as features related to user authentication, profile management, and basic calculations. The CSV integration showed ability to work with external data sources.
 
+## Examples of some of the features
 ![image](https://github.com/cdfelixj/discordBot/assets/139610403/7a0842d9-8399-4d8f-8e43-99fa4b8b2446)
 
 ![image](https://github.com/cdfelixj/discordBot/assets/139610403/62b85ad5-6b48-4037-80ba-ecd664ffcddf)
